@@ -1,6 +1,6 @@
-# OpenWebUI
+# OpenWebUI_trial
 
-웹 기반 사용자 인터페이스 애플리케이션입니다.
+웹 기반 사용자 인터페이스 애플리케이션 open web ui 테스트 입니다.
 
 ## 프로젝트 개요
 
